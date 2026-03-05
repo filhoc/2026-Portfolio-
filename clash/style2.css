@@ -1,0 +1,52 @@
+body {
+  background-color: rgb(40, 168, 100);
+  color:antiquewhite
+}
+
+hr {
+  border: none; 
+  height: 3px; 
+  background-color: rgb(10, 116, 15); 
+}
+
+h1 {
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color:rgb(253, 255, 255);
+}
+
+h2 {
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color:rgb(241, 239, 239);
+}
+
+h3 {
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color:rgb(241, 239, 239);
+}
+
+p {
+  font-family:'Times New Roman', Times, serif;
+  color:rgb(241, 239, 239);
+}
+
+li {
+  font-family:'Times New Roman', Times, serif;
+  color:rgb(241, 239, 239);
+}
+
+img {
+  width: 45%;
+  height: auto;
+}
+
+.pancakes{
+    width: 100%;
+  height: auto;
+}
+a{
+    text-align: center;
+    color: rgb(254, 253, 253);
+    font-weight: bold;
+    font-size: 15px;
+    font-family: sans-serif;
+  }

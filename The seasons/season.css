@@ -1,0 +1,47 @@
+h1 {
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color:rgb(253, 255, 255);
+  text-align: center;
+  letter-spacing: 15px;
+    font-size: 65px;
+}
+h2 {
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color:rgb(241, 239, 239);
+  text-align: center;
+  text-decoration: underline;
+  font-size: 30px;
+}
+
+h3 {
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color:rgb(241, 239, 239);
+}
+
+p {
+  font-family:'Times New Roman', Times, serif;
+  color:rgb(241, 239, 239);
+}
+body{
+  background-color: rgb(60, 103, 156);
+}
+hr{
+  height: 3px;
+  background-color: rgb(248, 245, 245);
+}
+img{
+  width: 80%; 
+  transform: translate(13%, -0%);
+}
+a{
+    text-align: center;
+    color: rgb(255, 254, 254);
+    font-weight: bold;
+    font-size: 23px;
+    font-family: sans-serif;
+    text-decoration:none
+  }
+.lit{
+    height: 0.2px;
+  background-color: rgb(248, 245, 245);
+}

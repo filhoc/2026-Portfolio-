@@ -46,3 +46,9 @@ text-align: center;
 .clear-rule {
   clear: both;
 }
+.big{
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: 250%;
+    font-family: sans-serif;
+}

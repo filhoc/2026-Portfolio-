@@ -44,3 +44,18 @@ a{
   .clear-rule {
   clear: both;
 }
+.box{
+background-color: cornsilk;
+  padding: 30px;
+  border: 9px solid #0a0101;
+  border-radius: 30px;
+  border-width: 3px;
+}
+.something{
+display: flex; 
+  justify-content: space-around; 
+  height: 700px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+
+}
